@@ -8,5 +8,13 @@
     "start": "node index"
   },
   "author": "Deepika Kumari",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deepikakumari97/node-http.git"
+  },
+  "bugs": {
+    "url": "https://github.com/deepikakumari97/node-http/issues"
+  },
+  "homepage": "https://github.com/deepikakumari97/node-http#readme"
 }
